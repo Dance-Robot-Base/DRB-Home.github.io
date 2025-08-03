@@ -1,8 +1,8 @@
 site_name: 西北工业大学舞蹈机器人基地
-site_url: https://DRB-Home.github.io.git/ # 网站地址
+site_url: https://Dance-Robot-Base.github.io/ # 网站地址
 
 repo_name: NPU-Home # 仓库名称
-repo_url: https://github.com/Dance-Robot-Base/DRB-Home.github.io.git # 仓库地址
+repo_url: https://github.com/Dance-Robot-Base/Dance-Robot-Base.github.io/ # 仓库地址
 edit_uri: edit/main/docs/
 
 theme:
@@ -74,7 +74,8 @@ plugins:
           locale: zh
           enable_creation_date: true
     - git-committers:
-          repository: NPU-Home/NPU-Home.github.io
+          token: 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
+          repository: Dance-Robot-Base/Dance-Robot-Base.github.io
           branch: main
           exclude_committers:
               - "web-flow"
