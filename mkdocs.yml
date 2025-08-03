@@ -42,7 +42,7 @@ extra_javascript:
     - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
 plugins:
-#    - heti
+    - heti
     - mkdocs-video:
           is_video: False
           video_muted: False
