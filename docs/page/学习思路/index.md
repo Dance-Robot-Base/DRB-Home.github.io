@@ -7,5 +7,18 @@
     舞蹈机器人基地软件组的学习思路，包括一门编程语言、Markdown、Git、面向对象的思想、良好的代码规范等。
 
     [查看学习思路 :octicons-chevron-right-12:](./软件组学习思路.md){#right .md-button}
+    
+- ## 电子学习思路
+
+    舞蹈机器人基地电子组的学习思路，包括xxxxxxx等。
+
+    [查看学习思路 :octicons-chevron-right-12:](./电子组学习思路.md){#right .md-button}
+    
+- ## 机械学习思路
+
+    舞蹈机器人基地机械组的学习思路，主要是物体建模，需要学习SOLIDWORKS，一些辅助工具等。
+
+    [查看学习思路 :octicons-chevron-right-12:](./机械组学习思路.md){#right .md-button}
 
 </div>
+

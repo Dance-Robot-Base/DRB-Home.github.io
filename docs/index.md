@@ -30,7 +30,7 @@ comments: True
 
 -   ### 学习思路分享
 
-    介绍了基地软件组的学习思路，包括一门编程语言、Markdown、Git、面向对象的思想、良好的代码规范等。
+    介绍了各个组详细介绍的学习思路。
 
     [查看分享 :octicons-chevron-right-12:](page/学习思路/软件组学习思路.md){#right .md-button}
 
