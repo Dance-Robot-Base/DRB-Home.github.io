@@ -42,31 +42,7 @@ comments: True
 
 </div>
 
-## 基地资讯
 
-<div class="grid cards" markdown>
-
--   ![QRcode](https://mp.weixin.qq.com/mp/qrcode?scene=10000005&size=102&__biz=MzA4MTAzODQ4Nw==&mid=2673687490&idx=1&sn=b3ee30be7376794369f750c743f20ee4&send_time=){align=left}
-
-    <name style="color:#58be6a;font-size: clamp(0.8rem, 0.735rem + 1.03vw, 1.45rem);">:material-wechat: 西工大舞蹈机器人基地</name>
-
-    ***
-
-    舞蹈机器人基地的微信公众号，扫描关注最新资讯。
-
-</div>
-
-<div class="grid cards" markdown>
-
--   ![QRcode](https://img.picui.cn/free/2024/09/05/66d887b91c5e1.jpg){width=133px, align=left}
-
-    <name style="color:#54b4ef;font-size: clamp(0.8rem, 0.735rem + 1.03vw, 1.45rem);">:material-qqchat: 西工大舞蹈机器人基地</name>
-
-    ***
-
-    舞蹈机器人基地 QQ 吉祥物，扫描加好友，获取招新信息。小舞在 NPU 等你(\*'▽'\*)♪
-
-</div>
 
 ## 项目展示
 
